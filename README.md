@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 🏅 Certifications
+
+[![AWS Badge](https://images.credly.com/size/340x340/images/0968062c-f333-437c-8e7d-6eb28a1b9919/image.png)](https://www.credly.com/badges/0968062c-f333-437c-8e7d-6eb28a1b9919)
+
 <!--
 **Dsanj97/Dsanj97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
